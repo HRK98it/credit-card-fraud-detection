@@ -16,7 +16,7 @@ This machine learning project aims to detect fraudulent credit card transactions
 - **ROC-AUC Score**: 0.88
 
 ## 📂 Files:
-- `bank_fraud.ipynb` – Jupyter Notebook with full code
+- `bank_fraud.ipynb` –  Notebook with full code
 - `Credit_Card_Fraud_Detection_Report.docx` – Project report and documentation
 
 ## 🚀 Try it Yourself
